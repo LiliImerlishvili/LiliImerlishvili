@@ -1,16 +1,15 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/LiliImerlishvili/LiliImerlishvili/main/banner.png" alt="QA Banner" width="100%" />
 
 <!--
 **LiliImerlishvili/LiliImerlishvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👋 Hi, I’m Lili Imerlishvili  
+**Manual QA Tester | Testing with precision. Improving with purpose.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Functional & Regression Testing  
+🔹 UI/UX Consistency Validation  
+🔹 API Testing with Postman  
+🔹 SQL Data Validation  
+🔹 Jira • DevTools • Qase.io  
+
+⭐ “Quality is not about finding bugs – it’s about building trust.”
