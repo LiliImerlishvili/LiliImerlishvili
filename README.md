@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LiliImerlishvili/LiliImerlishvili/master/lili imerlishvili.png" alt="QA Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/LiliImerlishvili/LiliImerlishvili/master/Lili imerlishvili.png" alt="QA Banner" width="100%" />
 
 <!--
 **LiliImerlishvili/LiliImerlishvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
