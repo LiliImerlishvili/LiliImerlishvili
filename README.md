@@ -2,10 +2,10 @@
 
 ## About
 
-**31+ real-world projects. 260+ documented bug reports. 300+ test cases.**
-That is what my QA portfolio looks like today — across web, iOS, Android and API products.
+**31+ projects. 2,700+ test cases. 1,000+ defects reported.**
+Over 2+ years of hands-on QA across web, iOS, Android and API products. A curated, anonymized selection — **260+ bug reports, 300+ test cases, 190+ test scenarios and 130+ checklists** — is documented in my [QA-Portfolio](https://github.com/LiliImerlishvili/QA-Portfolio).
 
-I test products for startups and growing teams in e-commerce, healthcare, B2B finance and production workflows, AI products, education and live video. My work covers the full QA cycle: requirement analysis, test design, functional and regression testing, defect reporting, retesting and release recommendations — backed by **190+ test scenarios, 130+ checklists and a traceability matrix for every project**. I have worked as **QA Lead** on several projects, coordinating testing and reviewing bug reports written by QA interns and students.
+I test products for startups and growing teams in e-commerce, healthcare, B2B finance and production workflows, AI products, education and live video. My work covers the full QA cycle: requirement analysis, test design, functional and regression testing, defect reporting, retesting and release recommendations. I have worked as **QA Lead** on several projects, coordinating testing and reviewing bug reports written by QA interns and students.
 
 Before QA, I spent **12 years in banking** — from cashier-operator and precious metals appraiser to customer service and **credit risk officer**. That background shaped how I test today: attention to detail, careful verification of data and a risk-based view of what can go wrong.
 
