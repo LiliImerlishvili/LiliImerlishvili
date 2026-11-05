@@ -19,13 +19,6 @@ Before QA, I spent **12 years in banking** — from cashier-operator and preciou
 
 Selected work from projects delivered through **GenofIT** and its QA Impact program. All projects are under NDA and documented anonymously in my **[QA-Portfolio](https://github.com/LiliImerlishvili/QA-Portfolio)**.
 
-| Project | Platform | Scope |
-|---|---|---|
-| [Live Video and Debate Platform](https://github.com/LiliImerlishvili/QA-Portfolio/tree/master/Mobile-Testing/Live%20Video%20and%20Debate%20Platform) | iOS, Web | Live debates, device switching, video upload, social login |
-| [Healthcare Staffing Mobile Application](https://github.com/LiliImerlishvili/QA-Portfolio/tree/master/Mobile-Testing/Healthcare%20Staffing%20Mobile%20Application) | Android | Onboarding, address validation, required documents, OTP security |
-| [Production Workflow and AI Workspace Platform](https://github.com/LiliImerlishvili/QA-Portfolio/tree/master/Web-Platform-Testing/Production%20Workflow%20and%20AI%20Workspace%20Platform) | Web (B2B) | Invoices, financial overview, reports, roles, workspace isolation |
-| [AI-Powered E-commerce Marketplace](https://github.com/LiliImerlishvili/QA-Portfolio/tree/master/E-commerce-Testing/AI-Powered%20E-commerce%20Marketplace) | Web | Seller onboarding, authentication, categories and templates |
-| [Vacancy Review and Community Feedback Platform](https://github.com/LiliImerlishvili/QA-Portfolio/tree/master/Web-Platform-Testing/Vacancy%20Review%20and%20Community%20Feedback%20Platform) — QA Lead | Web | Vacancy data, social login, comments, polls |
 
 ## Technical Toolkit
 
